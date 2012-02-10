@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension>
+  <dict>
+    <key>version</key>
+    <string>1.0</string>
+    <key>name</key>
+    <string>Mendeley Reference Support</string>
+    <key>author</key>
+    <string>James Brotchie</string>
+    <key>email</key>
+    <string>brotchie@gmail.com</string>
+    <key>website</key>
+    <string>http://pycurious.org</string>
+    <key>description</key>
+    <string>Allows addition of references to Mendeley documents.</string>
+  </dict>
+</extension>
