@@ -1,6 +1,6 @@
 DIST=dist
 PACKAGE=keepnote_mendeley
-SRCFILES=info.xml __init__.py
+SRCFILES=info.xml __init__.py icons/mendeleydesktop.png
 CONTENTS=$(addprefix $(PACKAGE)/,$(SRCFILES))
 DESTINATION=$(HOME)/.config/keepnote/extensions/$(PACKAGE)
 
